@@ -1,0 +1,11 @@
+//Chalenge 2
+
+3h
+
+Create a function to become reaction after the number from user was a kind required
+
+error
+    try to chance values into variables const 
+    try to use properties .style + innerText
+learnings
+    each block statment created ---test as soon as possible for not one the future trying to solve BIG bus
